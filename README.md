@@ -14,10 +14,10 @@
 - 🤝 I’m looking for help with **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaustubhshelavale](https://github.com/kaustubhshelavale)
-
+- 📝 I regularly write codes on [https://www.instagram.com/eezdsa/](https://www.instagram.com/eezdsa/)
 - 📝 I regularly write articles on [https://www.instagram.com/ektaach/](https://www.instagram.com/ektaach/)
 
-- 💬 Ask me about **Java, Hibernate, Spring Boot**
+- 💬 Ask me about **Java, Hibernate, Spring Boot, javascript**
 
 - 📫 How to reach me **https://www.instagram.com/kaustubh_797/**
 
@@ -25,6 +25,8 @@
 <p align="left">
 <a href="https://twitter.com/@kaustubh0797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kaustubh0797" height="30" width="40" /></a>
 <a href="https://instagram.com/kaustubh_797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kaustubh_797" height="30" width="40" /></a>
+ &nbsp &nbsp  |  &nbsp &nbsp MY CODES ARE HERE >>>
+  <a href="https://instagram.com/eezdsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@eezdsa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
